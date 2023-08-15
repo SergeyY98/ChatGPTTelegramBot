@@ -1,0 +1,8 @@
+application:
+    botName: "Chat_GPT_Demo_Test_Bot"
+    telegramToken: "insert your telegram token"
+    chatId: "t.me/Chat_GPT_Demo_Test_Bot"
+    openAiToken: "insert your openAi token"
+    openAiUrl: "https://api.openai.com/v1/completions"
+    model: text-davinci-003
+    maxTokens: 500
